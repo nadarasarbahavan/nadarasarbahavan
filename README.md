@@ -10,4 +10,4 @@ model calibration.
 - 💬 Ask me about trustworthy AI, uncertainty quantification, or FPGAs
 - 🎓 Biomedical engineer by training, systems thinker by disposition
 
-Find out more about me at ![my personal website!](https://nadarasarbahavan.github.io/)
+Find out more about me at ![my personal website!](https://nadarasarbahavan.github.io)

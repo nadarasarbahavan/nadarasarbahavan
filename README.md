@@ -9,3 +9,5 @@ model calibration.
 - 🌱 Exploring AI agents, evals, and inference-time compute
 - 💬 Ask me about trustworthy AI, uncertainty quantification, or FPGAs
 - 🎓 Biomedical engineer by training, systems thinker by disposition
+
+Find out more about me at ![my personal website!](https://nadarasarbahavan.github.io/)

@@ -1,8 +1,11 @@
-## Hi there 👋
+## Nadarasar Bahavan
 
+PhD Candidate at the University of Melbourne working on **Trustworthy AI 
+for Computer Vision** open-set recognition, deepfake detection, and 
+model calibration.
 
-- 🔭 I’m currently working on Trustworthy AI, Open-set Recognition
-- 🌱 I’m currently learning AI Agents, Evals, AI Engineering
-- 👯 I’m looking to collaborate on Reinforcement Learning and Video Analysis
-- 💬 Ask me about AI Safety
-
+- 🔭 Currently working on representation learning for open-set recognition
+- 📄 Two papers at CVPR 2026 (Findings + Workshop)
+- 🌱 Exploring AI agents, evals, and inference-time compute
+- 💬 Ask me about trustworthy AI, uncertainty quantification, or FPGAs
+- 🎓 Biomedical engineer by training, systems thinker by disposition
